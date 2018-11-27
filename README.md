@@ -1,2 +1,2 @@
 # react-demols
-* First React App
+* First React

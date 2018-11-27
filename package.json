@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "* First React App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricSei/react-demo.git"
+  },
+  "author": "Eric Sei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EricSei/react-demo/issues"
+  },
+  "homepage": "https://github.com/EricSei/react-demo#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "lodash": "^4.17.11"
+  }
+}
