@@ -1,2 +1,2 @@
-# react-demols
+# react-demo
 * First React
